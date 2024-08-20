@@ -1,3 +1,4 @@
 # Power-BI-Project-II
 ## Analyzed Super Store sales data creating an interactive dashboard
-![image](https://github.com/user-attachments/assets/d867aec3-3c23-449b-8f68-14ea04baf0e9)
+![image](https://github.com/user-attachments/assets/dd02aac0-aab4-4db7-90b4-80ded7e730c3)
+
